@@ -14,4 +14,21 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Dismantlingfunction.java</name>
+			<type>1</type>
+			<location>C:/Users/User/Desktop/100 question/src/Dismantlingfunction.java</location>
+		</link>
+		<link>
+			<name>src/Groupeven.java</name>
+			<type>1</type>
+			<location>C:/Users/User/Desktop/100 question/src/Groupeven.java</location>
+		</link>
+		<link>
+			<name>src/Guess.java</name>
+			<type>1</type>
+			<location>C:/Users/User/Desktop/100 question/src/Guess.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>

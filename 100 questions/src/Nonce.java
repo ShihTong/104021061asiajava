@@ -10,7 +10,7 @@ public class Nonce {
 		int data[] = new int[6];
 		boolean flag = false;
 		while(i<6){
-			data[i] = rnd.nextInt(46)+1;
+			data[i] = rnd.nextInt(49)+1;
 			flag = false;
 			for(int j = 0;j<i;j++){
 				if(data[i] == data[j]){
